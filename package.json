@@ -1,5 +1,5 @@
 {
-  "name": "songle-sync-client-raspi",
+  "name": "songle-sync-client-grovepi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,6 @@
   "dependencies": {
     "@types/node": "^6.0.78",
     "node-grovepi": "^2.1.1",
-    "songle-widget": "latest"
+    "songle-api": "latest"
   }
 }

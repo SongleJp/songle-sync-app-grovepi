@@ -23,7 +23,7 @@ var board = new GrovePi.board({
     }
 });
 board.init();
-var SW = require("songle-widget");
+var SW = require("songle-api");
 // トークンの情報を取ってくる
 var settings = require("./settings");
 // ビート情報と基本情報をもらってくる
